@@ -60,7 +60,7 @@ describe 'Posts', type: 'feature' do
     #   visit post_path(@post)
     #   expect(page).to have_content(@comment1.content)
     # end
-    # 
+    #
     # it 'should display a list of unique users who have commented on the post' do |variable|
     #   @comment2 = Comment.create(content: "And another thing, how come there aren't any vegetabls at the movie theater...", user: @user, post: @post)
     #   visit post_path(@post)
